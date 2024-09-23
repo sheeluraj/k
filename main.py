@@ -305,7 +305,7 @@ def send_message():
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 𝗞𝗔𝗥𝗧𝗜𝗞</span>.</span></p>
       <p><span class="boxed-text"><span class="color-span">𝗢𝗙𝗙𝗟𝗜𝗡𝗘 𝗦𝗘𝗥𝗩𝗘𝗥 𝗕𝗬 ❰𝗞𝗔𝗥𝗧𝗜𝗞❱</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://www.youtube.com/@chandtricker436" class="color-s">YOUTUBE</a></p>
+      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://www.youtube.com/@" class="color-s">YOUTUBE</a></p>
     </footer>
     </div>
 </div>
